@@ -1,12 +1,14 @@
 # COSC224-Lab02
 Adding Animal Texts to a Repository
 
-Chris - Added Animals, Mammals
 
-Matt Please add Reptiles.txt
 
-Miriam Please add Fish.txt
+Chris - Added Animals, Mammals; will remove imaginary animals from Birds as they appear.
 
-Ben Please add Birds.txt
+Matt Please create a branch "reptiles" and add Reptiles.txt to it, please remove imaginary animals from Mammals as they are merged into the master (check logs for imaginary animals).
+
+Miriam Please create a branch called "fish" and add Fish.txt to it, please remove imaginary animals from Reptiles as they are merged into the master (check logs for imaginary animals).
+
+Ben Please add Birds.txt, please remove imaginary animals from Fish as they appear.
 
 

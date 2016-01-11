@@ -9,6 +9,6 @@ Matt Please create a branch "reptiles" and add Reptiles.txt to it, please remove
 
 Miriam Please create a branch called "fish" and add Fish.txt to it, please remove imaginary animals from Reptiles as they are merged into the master (check logs for imaginary animals).
 
-Ben Please add Birds.txt, please remove imaginary animals from Fish as they appear.
+Ben Please create a branch called "birds" and add Birds.txt to it, please remove imaginary animals from Fish as they are merged into the master (check logs for imaginary animals).
 
 
